@@ -1,0 +1,22 @@
+[
+	{
+		"habit": "Reading",
+        "description": "10 pages"
+    },
+    {
+        "habit": "Listening",
+        "description": "30 minute"
+    },
+    {
+        "habit": "Work out",
+        "description": "50 times"
+    },
+    {
+        "habit": "Sleep",
+        "description": "8 hour"
+    },
+    {
+        "habit": "Communicate",
+        "description": "5 friend"
+    }
+]
