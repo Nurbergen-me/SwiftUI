@@ -13,6 +13,9 @@
 		CE2DDB272626E02300AE2EC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE2DDB262626E02300AE2EC1 /* Assets.xcassets */; };
 		CE2DDB2A2626E02300AE2EC1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE2DDB292626E02300AE2EC1 /* Preview Assets.xcassets */; };
 		CE2DDB2D2626E02300AE2EC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE2DDB2B2626E02300AE2EC1 /* LaunchScreen.storyboard */; };
+		CE50E2E626340A4100CFD2B9 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE50E2E526340A4100CFD2B9 /* Order.swift */; };
+		CE50E2E926340E5900CFD2B9 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE50E2E826340E5900CFD2B9 /* AddressView.swift */; };
+		CE50E2EC2634108E00CFD2B9 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE50E2EB2634108E00CFD2B9 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		CE2DDB292626E02300AE2EC1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CE2DDB2C2626E02300AE2EC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE2DDB2E2626E02300AE2EC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE50E2E526340A4100CFD2B9 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		CE50E2E826340E5900CFD2B9 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		CE50E2EB2634108E00CFD2B9 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				CE2DDB202626E01F00AE2EC1 /* AppDelegate.swift */,
 				CE2DDB222626E01F00AE2EC1 /* SceneDelegate.swift */,
 				CE2DDB242626E01F00AE2EC1 /* ContentView.swift */,
+				CE50E2EB2634108E00CFD2B9 /* CheckoutView.swift */,
+				CE50E2E826340E5900CFD2B9 /* AddressView.swift */,
+				CE50E2E526340A4100CFD2B9 /* Order.swift */,
 				CE2DDB262626E02300AE2EC1 /* Assets.xcassets */,
 				CE2DDB2B2626E02300AE2EC1 /* LaunchScreen.storyboard */,
 				CE2DDB2E2626E02300AE2EC1 /* Info.plist */,
@@ -147,7 +156,10 @@
 			files = (
 				CE2DDB212626E01F00AE2EC1 /* AppDelegate.swift in Sources */,
 				CE2DDB232626E01F00AE2EC1 /* SceneDelegate.swift in Sources */,
+				CE50E2EC2634108E00CFD2B9 /* CheckoutView.swift in Sources */,
+				CE50E2E626340A4100CFD2B9 /* Order.swift in Sources */,
 				CE2DDB252626E01F00AE2EC1 /* ContentView.swift in Sources */,
+				CE50E2E926340E5900CFD2B9 /* AddressView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
